@@ -1,0 +1,18 @@
+Proyecto Capstone - La Batalla de los Vecindarios
+
+- Descripción del problema:
+Encontrar un ubicación estratégica para abrir una tienda de bicicletas.
+
+- Discusión de los antecedentes:
+Toronto es una ciudad donde los habitantes usan mayormente las bicicletas para movilizarse. Además cuenta con ciclivías en todo su territorio.
+
+- Introducción problema comercial y quién estaría interesado en este proyecto:
+La ubicación debe coincidir con una zona de nivel socieconomico intermedio/alto ya que la tienda contará con marcas top en el rubro. El interesado en el
+sería un inversionista que desee incurrir en el rubro de la venta de bicicletas profesionales.
+
+- Descripción de los datos 
+Los datos que se necesitará para desarrollar esta investigación son del CENSO ya que nos brindará información demógrafica, social y económica de las personas en la ciudad de Toronto.
+Link: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+
+Se usa foursquare para obtener la información de las cafeterias de Toronto
+Link: https://foursquare.com/explore?mode=url&ne=44.418088%2C-78.362732&q=Restaurant&sw=42.742978%2C-80.554504
